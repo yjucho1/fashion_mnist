@@ -120,84 +120,7 @@ decoded_imgs = decoder.predict(encoded_imgs)
     60000/60000 [==============================] - 2s 26us/step - loss: 0.4181 - val_loss: 0.4168
     Epoch 5/50
     60000/60000 [==============================] - 2s 26us/step - loss: 0.4137 - val_loss: 0.4128
-    Epoch 6/50
-    60000/60000 [==============================] - 2s 26us/step - loss: 0.4100 - val_loss: 0.4096
-    Epoch 7/50
-    60000/60000 [==============================] - 2s 27us/step - loss: 0.4069 - val_loss: 0.4066
-    Epoch 8/50
-    60000/60000 [==============================] - 2s 26us/step - loss: 0.4041 - val_loss: 0.4042
-    Epoch 9/50
-    60000/60000 [==============================] - 2s 26us/step - loss: 0.4016 - val_loss: 0.4019
-    Epoch 10/50
-    60000/60000 [==============================] - 2s 26us/step - loss: 0.3994 - val_loss: 0.3998
-    Epoch 11/50
-    60000/60000 [==============================] - 2s 26us/step - loss: 0.3973 - val_loss: 0.3978
-    Epoch 12/50
-    60000/60000 [==============================] - 2s 26us/step - loss: 0.3954 - val_loss: 0.3960
-    Epoch 13/50
-    60000/60000 [==============================] - 2s 26us/step - loss: 0.3934 - val_loss: 0.3941
-    Epoch 14/50
-    60000/60000 [==============================] - 2s 26us/step - loss: 0.3916 - val_loss: 0.3922
-    Epoch 15/50
-    60000/60000 [==============================] - 2s 26us/step - loss: 0.3897 - val_loss: 0.3903
-    Epoch 16/50
-    60000/60000 [==============================] - 2s 26us/step - loss: 0.3878 - val_loss: 0.3884
-    Epoch 17/50
-    60000/60000 [==============================] - 2s 26us/step - loss: 0.3860 - val_loss: 0.3868
-    Epoch 18/50
-    60000/60000 [==============================] - 2s 26us/step - loss: 0.3842 - val_loss: 0.3850
-    Epoch 19/50
-    60000/60000 [==============================] - 2s 26us/step - loss: 0.3825 - val_loss: 0.3834
-    Epoch 20/50
-    60000/60000 [==============================] - 2s 27us/step - loss: 0.3811 - val_loss: 0.3822
-    Epoch 21/50
-    60000/60000 [==============================] - 2s 27us/step - loss: 0.3799 - val_loss: 0.3811
-    Epoch 22/50
-    60000/60000 [==============================] - 2s 27us/step - loss: 0.3789 - val_loss: 0.3802
-    Epoch 23/50
-    60000/60000 [==============================] - 2s 29us/step - loss: 0.3781 - val_loss: 0.3795
-    Epoch 24/50
-    60000/60000 [==============================] - 2s 27us/step - loss: 0.3776 - val_loss: 0.3790
-    Epoch 25/50
-    60000/60000 [==============================] - 2s 27us/step - loss: 0.3771 - val_loss: 0.3786
-    Epoch 26/50
-    60000/60000 [==============================] - 2s 27us/step - loss: 0.3768 - val_loss: 0.3783
-    Epoch 27/50
-    60000/60000 [==============================] - 2s 28us/step - loss: 0.3765 - val_loss: 0.3782
-    Epoch 28/50
-    60000/60000 [==============================] - 2s 28us/step - loss: 0.3764 - val_loss: 0.3780
-    Epoch 29/50
-    60000/60000 [==============================] - 2s 28us/step - loss: 0.3762 - val_loss: 0.3778
-    Epoch 30/50
-    60000/60000 [==============================] - 2s 28us/step - loss: 0.3761 - val_loss: 0.3777
-    Epoch 31/50
-    60000/60000 [==============================] - 2s 28us/step - loss: 0.3760 - val_loss: 0.3776
-    Epoch 32/50
-    60000/60000 [==============================] - 2s 27us/step - loss: 0.3758 - val_loss: 0.3775
-    Epoch 33/50
-    60000/60000 [==============================] - 2s 26us/step - loss: 0.3758 - val_loss: 0.3775
-    Epoch 34/50
-    60000/60000 [==============================] - 2s 27us/step - loss: 0.3757 - val_loss: 0.3774
-    Epoch 35/50
-    60000/60000 [==============================] - 2s 29us/step - loss: 0.3756 - val_loss: 0.3773
-    Epoch 36/50
-    60000/60000 [==============================] - 2s 28us/step - loss: 0.3756 - val_loss: 0.3772
-    Epoch 37/50
-    60000/60000 [==============================] - 2s 29us/step - loss: 0.3755 - val_loss: 0.3772
-    Epoch 38/50
-    60000/60000 [==============================] - 2s 29us/step - loss: 0.3755 - val_loss: 0.3771
-    Epoch 39/50
-    60000/60000 [==============================] - 2s 28us/step - loss: 0.3754 - val_loss: 0.3771
-    Epoch 40/50
-    60000/60000 [==============================] - 2s 27us/step - loss: 0.3754 - val_loss: 0.3770
-    Epoch 41/50
-    60000/60000 [==============================] - 2s 29us/step - loss: 0.3753 - val_loss: 0.3770
-    Epoch 42/50
-    60000/60000 [==============================] - 2s 27us/step - loss: 0.3753 - val_loss: 0.3770
-    Epoch 43/50
-    60000/60000 [==============================] - 2s 27us/step - loss: 0.3753 - val_loss: 0.3769
-    Epoch 44/50
-    60000/60000 [==============================] - 2s 27us/step - loss: 0.3752 - val_loss: 0.3769
+    ... (생략)....
     Epoch 45/50
     60000/60000 [==============================] - 2s 27us/step - loss: 0.3752 - val_loss: 0.3770
     Epoch 46/50
@@ -234,7 +157,7 @@ plt.show()
 ```
 
 
-![png](output_4_0.png)
+![png](output_fig/output_4_0.png)
 
 
 >### simple_AE 모델 학습 결과
@@ -286,47 +209,47 @@ for i in range(10):
 ```
 
 
-![png](output_6_0.png)
+![png](output_fig/output_6_0.png)
 
 
 
-![png](output_6_1.png)
+![png](output_fig/output_6_1.png)
 
 
 
-![png](output_6_2.png)
+![png](output_fig/output_6_2.png)
 
 
 
-![png](output_6_3.png)
+![png](output_fig/output_6_3.png)
 
 
 
-![png](output_6_4.png)
+![png](output_fig/output_6_4.png)
 
 
 
-![png](output_6_5.png)
+![png](output_fig/output_6_5.png)
 
 
 
-![png](output_6_6.png)
+![png](output_fig/output_6_6.png)
 
 
 
-![png](output_6_7.png)
+![png](output_fig/output_6_7.png)
 
 
 
-![png](output_6_8.png)
+![png](output_fig/output_6_8.png)
 
 
 
-![png](output_6_9.png)
+![png](output_fig/output_6_9.png)
 
 
 
-![png](output_6_10.png)
+![png](output_fig/output_6_10.png)
 
 
 >### 인코딩된 이미지의 2차원 시각화
@@ -367,70 +290,70 @@ for i in range(10):
 
 
 
-![png](output_10_1.png)
+![png](output_fig/output_10_1.png)
 
 
     (949, 1728)
 
 
 
-![png](output_10_3.png)
+![png](output_fig/output_10_3.png)
 
 
     (69, 1931)
 
 
 
-![png](output_10_5.png)
+![png](output_fig/output_10_5.png)
 
 
     (2742, 4771)
 
 
 
-![png](output_10_7.png)
+![png](output_fig/output_10_7.png)
 
 
     (1219, 9658)
 
 
 
-![png](output_10_9.png)
+![png](output_fig/output_10_9.png)
 
 
     (7999, 8379)
 
 
 
-![png](output_10_11.png)
+![png](output_fig/output_10_11.png)
 
 
     (9387, 4509)
 
 
 
-![png](output_10_13.png)
+![png](output_fig/output_10_13.png)
 
 
     (7317, 748)
 
 
 
-![png](output_10_15.png)
+![png](output_fig/output_10_15.png)
 
 
     (3025, 874)
 
 
 
-![png](output_10_17.png)
+![png](output_fig/output_10_17.png)
 
 
     (705, 7277)
 
 
 
-![png](output_10_19.png)
+![png](output_fig/output_10_19.png)
 
 
 >### 가장 유사한 아이템 선정
