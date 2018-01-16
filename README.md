@@ -7,6 +7,8 @@
 
 아이템간 거리가 가까울수록 유사한 아이템이라고 가정하여 가장 가까운 아이템을 유사상품으로 추천하는 방식입니다.
 
+> * fashion mnist : https://github.com/zalandoresearch/fashion-mnist
+
 ----------
 1-phase : 
 
